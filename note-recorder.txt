@@ -1,3 +1,4 @@
 docker-compose build: If you add/upgrade anything better to build
 docker-compose up: Will start all the services
 docker-compose up --build: you could use 
+check
